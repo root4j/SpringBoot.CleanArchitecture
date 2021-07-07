@@ -8,5 +8,6 @@ Esta es una plantilla con arquitectura limpia que te ayuda a comprender como uti
 
 ## 🔗 Links
 * [OpenJDK](https://openjdk.java.net/)
+* [Spring Boot](https://spring.io/projects/spring-boot)
 * [H2](https://www.h2database.com/html/main.html)
 * [JUnit](https://junit.org/junit5/)
